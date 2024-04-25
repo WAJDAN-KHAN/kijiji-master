@@ -1,0 +1,15 @@
+.back-ground{
+
+    background-image: url('../../../public/assets/images/BackgroundDesktop.svg');
+    background-position: 100% 50%;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.bg_img{
+    
+    background-image: url('../../../public/assets/images/Ben_Desktop_02.webp');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-color: black;
+}
